@@ -1,7 +1,7 @@
 print("-------------------------------------------------------------------------")
 print("                   WELCOME TO WORD GUESSING GAME")
 print("-------------------------------------------------------------------------")
-wordcollection=['Hello','name','dragon','class','tree','beautiful','object','anime','fish','tiger','lady','ant','man','world']
+wordcollection=['Hello','name','dragon','class','tree','beautiful','object','anime','fish','tiger','lady','ant','man','world','ANIMAL','girl','deer']
 
 name=input("Enter username:")
 flag=0
@@ -17,7 +17,5 @@ while(flag==0):
         
         
         
-# print(i,word)
-# if word.upper()==i.upper():
-#     print("You guessed the correct word!!!")
+
 
